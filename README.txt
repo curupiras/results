@@ -1,0 +1,1 @@
+This GitHub project was created to provide the results presented in the papper "Generating Artificial Data for Bus Travel Time Predictions". As the files containing the source data are very large, they have not been added to this repository, but can be requested through the email leandro.santos.r@gmail.com.
